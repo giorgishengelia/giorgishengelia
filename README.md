@@ -3,9 +3,8 @@
  <h2> I'm studying Information and Data </h2>
 
  <ul>
-   <li>:telescope: </li>
    <li>:books: I'm learning as much as I can</li>
-   <li>:flags: I'm looking to collaborate on learning more about this field</li>
+   <li>:telescope: I'm looking to collaborate on learning more about this field :flags:</li>
  </ul>
  
  <h3>:mailbox: How to reach me </h3>
