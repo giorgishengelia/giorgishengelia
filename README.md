@@ -1,4 +1,4 @@
-<h3> Hi There, I'm Gio 👋 </h3>
+<h3> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there+it's+Gio)](https://git.io/typing-svg) 👋 </h3>
 
  <h2> I'm studying Information and Data </h2>
 
