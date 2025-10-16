@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!+It's+Gio)](https://git.io/typing-svg)  
 
- <h2> I'm studying Information and Data </h2>
+ <h2> I'm studying Information and Data Science </h2>
 
  <ul>
    <li>:books: In the process of learning Information & data science 📈 </li>
