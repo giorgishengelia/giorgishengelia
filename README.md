@@ -3,7 +3,7 @@
  <h2> I'm studying Information and Data </h2>
 
  <ul>
-   <li>:books: In the progress of self-learning data science & analytics 📊📈 </li>
+   <li>:books: In the process of learning Information & data science 📈 </li>
    <li>:telescope: I'm looking to collaborate on learning more about this field :flags:</li>
  </ul>
  
