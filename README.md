@@ -4,7 +4,7 @@
 
  <ul>
    <li>:books: Continuous learning and building </li>
-   <li>:telescope: I'm looking to collaborate on learning more about this field :flags:</li>
+   <li>:telescope: Happy to collaborate :flags:</li>
  </ul>
  
  <h3>:mailbox: How to reach me </h3>
